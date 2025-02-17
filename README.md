@@ -8,7 +8,11 @@ Some backstory:
 
 I bought this book for my sister to prepare for IOI. But then she chose a different group (Physics, Chemistry, Maths, Biology) instead of (Physics, Chemistry, Maths, Computer Science).
 
-![Image](https://github.com/user-attachments/assets/0d1873fd-d79b-45eb-b530-27c3139e57f5)
+<p align="center">
+<br />
+<img src="https://github.com/user-attachments/assets/0d1873fd-d79b-45eb-b530-27c3139e57f5" height="420px" style="max-width: 100%;" />
+<br />
+</p>
 
 So the book has been lying around for a while.
 
