@@ -6,7 +6,7 @@ I used to hate it back in college. But I am liking it now - lol :D
 
 Some backstory:
 
-I bought this book for my sister to prepare for IOI. But then she chose a different group (Physics, Chemistry, Maths, Biology) instead of (Physics, Chemistry, Maths, Computer Science).
+I bought this book for my sister to prepare for [IOI](https://ioinformatics.org/). But then she chose a different group (Physics, Chemistry, Maths, Biology) instead of (Physics, Chemistry, Maths, Computer Science).
 
 <p align="center">
 <br />
@@ -14,8 +14,8 @@ I bought this book for my sister to prepare for IOI. But then she chose a differ
 <br />
 </p>
 
-So the book has been lying around for a while.
+So the book has been lying around unnoticed for a while.
 
-One day, I opened the book to read a few pages. BOOM! I am loved the energy.
+One day, I opened the book to read a few pages. BOOM! I loved the energy.
 
-So here I am, trying solve some programming challenges in my favorite programming language!
+So here I am, trying to solve some programming challenges in my favorite programming language!
